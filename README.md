@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📝 I regularly write articles on [Problem Solving](Problem Solving)
+- 📝 I regularly write articles on travel and experiences
 
 - 💬 Ask me about **Data Structures & Algorithms**
 
